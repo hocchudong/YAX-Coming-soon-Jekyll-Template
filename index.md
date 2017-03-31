@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "HỌC CHỦ ĐỘNG TEAM"
+title: "https://hocchudong.com"
 excerpt: "SẮP RA MẮT"
 ---
-# RA MẮT WEBSITE HỌC CHỦ ĐỘNG TEAM
-HỌC CHỦ ĐỘNG Team xuất hiện để góp phần tạo ra nhiều giá trị hơn cho mọi người.
+# HỌC CHỦ ĐỘNG TEAM
+Góp phần tạo ra các bài viết giá trị và tích lũy các kiến thức để chia sẻ cho cộng đồng IT tại Việt Nam
