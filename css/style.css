@@ -85,7 +85,6 @@ header p {
     top: 0;
     left: -25%;
     z-index: -1;
-#    width: 150%;
     height: 75%;
     background: white;
     -webkit-transform: rotate(-2deg);
@@ -189,8 +188,6 @@ section.footer p a {
     top: 0;
     left: -25%;
     z-index: -1;
-    width: 125%;
-    height: 105%;
     background: #f64747;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
