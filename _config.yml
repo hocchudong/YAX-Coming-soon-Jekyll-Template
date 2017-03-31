@@ -2,6 +2,9 @@
 
 title: "HỌC CHỦ ĐỘNG TEAM"
 description: "A Coming Soon Template"
+url: "http://hocchudong.com"
+enforce_ssl: hocchudong.com
+baseurl: ""
 #if you modify locale please have a look at _data/messages.yml too
 locale: vn
 #for meta name="author" :
