@@ -1,24 +1,24 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
+title: "HỌC CHỦ ĐỘNG TEAM"
 description: "A Coming Soon Template"
 #if you modify locale please have a look at _data/messages.yml too
-locale: en
+locale: vn
 #for meta name="author" :
 author: 
 
 #Target date in UTC / GMT
 countdown:
   theme: red
-  year: 2020
-  month: 1
+  year: 2017
+  month: 6
   day: 1
   hour: 0
   minute: 0
 
 # Site owner
-owner:
-  name:
+owner: HỌC CHỦ ĐỘNG
+  name: hocchudong
   email:
   twitter:
   google-plus:
