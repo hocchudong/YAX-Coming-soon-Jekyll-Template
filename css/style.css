@@ -85,7 +85,7 @@ header p {
     top: 0;
     left: -25%;
     z-index: -1;
-    width: 150%;
+#    width: 150%;
     height: 75%;
     background: white;
     -webkit-transform: rotate(-2deg);
