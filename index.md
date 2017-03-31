@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "https://hocchudong.com"
+title: "hocchudong.com"
 excerpt: "SẮP RA MẮT"
 ---
 # HỌC CHỦ ĐỘNG TEAM
