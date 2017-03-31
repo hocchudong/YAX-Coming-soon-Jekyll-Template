@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Your Awesome Site"
-excerpt: "A Coming Soon Template"
+title: "HỌC CHỦ ĐỘNG TEAM"
+excerpt: "SẮP RA MẮT"
 ---
-# Website is coming soon
-Tell the users that your website is not active yet. Put the reason to subscribe for the notification in this paragraph. Tell them about their problems which you would like to solve. Don’t forget the final call to action.
+# RA MẮT WEBSITE HỌC CHỦ ĐỘNG TEAM
+HỌC CHỦ ĐỘNG Team xuất hiện để góp phần tạo ra nhiều giá trị hơn cho mọi người.
